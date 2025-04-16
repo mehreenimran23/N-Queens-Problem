@@ -1,4 +1,4 @@
-# Python3 implementation of the
+# Python3 implementation of the N-Queens-Problem
 from random import randint
 
 N = 8
